@@ -10,3 +10,4 @@ your breathe and the key presses. Didn't externally play test it so not 100% sur
 If you look at the code and wonder "Why the hell did he program this like this?" It is because I was rushing and when there is rush there is no logic so stuff's
 just kinda haphazardly thrown together towards the end. 
 
+The 1.0.0 download is in the Release tab, just unzip the file and run the EXE and you are on your way to absolute fun
